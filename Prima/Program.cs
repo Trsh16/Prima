@@ -23,9 +23,9 @@ namespace Prima
                     n = n;
             }
             if (n > 2)
-                hasil = "bukan bilangan prima";
+                hasil = " sebuah bukan bilangan prima";
             else
-                hasil = "bilangan prima";
+                hasil = " sebuah bilangan prima";
             Console.WriteLine("Jadi bilangan adalah : " + hasil);
             Console.ReadKey();
         }
