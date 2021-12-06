@@ -26,7 +26,7 @@ namespace Prima
                 hasil = "bukan bilangan prima";
             else
                 hasil = "bilangan prima";
-            Console.WriteLine("Jadi bilangan adalah " + hasil);
+            Console.WriteLine("Jadi bilangan adalah : " + hasil);
             Console.ReadKey();
         }
     }
